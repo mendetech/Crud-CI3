@@ -1,5 +1,5 @@
 # Latihan Codeigniter 3
-- Instalasi dan Konfiguras
+- Instalasi dan Konfigurasi
 - Templating
 - Menambah Data
 - Menampilkan Data
